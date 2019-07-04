@@ -54,5 +54,4 @@ implementation 'com.firebaseui:firebase-ui-auth:4.2.0'
   });
 }
 ```
-### React Native Çalıştırmak
-`react-native run-app`
+
