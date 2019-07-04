@@ -1,5 +1,19 @@
 # ReactNativeLogin
 <a href="https://imgflip.com/gif/34voh9"><img src="https://i.imgflip.com/34voh9.gif" title="made at imgflip.com"/></a>
+## React Native İçin Gerekli Araçlar
+NodeJS </br>
+Java JDK </br>
+Android Studio </br>
+VS Code / Atom / WebStorm vs ..</br>
+
+Daha sonra React Native Cli yüklenmeli. </br>
+`npm install -g react-native-cli`</br>
+
+Proje oluşturmak için;  </br>
+`react-native init PrpjeName` </br>
+
+ React Native projeyi çalıştırmak için;  
+`react-native run-app`
 ## React Native Firebase Login
 Proje oluşturduktan sonra Android platformuna Firebase eklenmeli. </br>
 React Native uygulamasına react-native-firebase kütüphanesi yüklenmeli. </br>
